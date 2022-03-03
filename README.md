@@ -1,0 +1,1 @@
+# smart_trash_scanner_SBI
